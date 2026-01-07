@@ -1,0 +1,6 @@
+Take this project/skill summary and create a professional LinkedIn post.
+
+Format:
+Headline:
+Summary:
+Key Learning:
