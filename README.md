@@ -29,3 +29,8 @@ make-scenario/scenario-screenshots
 - Integrate post-performance analytics
 - Extend automation to Twitter/X and Instagram
 - Add error handling and alert notifications
+
+## Resume Summary
+Designed and implemented an AI-powered social media automation workflow
+using Make.com, Google Sheets, and Gemini AI to generate and publish
+platform-optimized content automatically.
